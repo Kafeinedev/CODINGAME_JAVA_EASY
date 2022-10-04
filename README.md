@@ -1,2 +1,3 @@
 # CODINGAME_JAVA_EASY
-Codingame solutions for java easy puzzle
+
+Solutions for Codingame easy puzzle in java. Some of the solutions are needlessly complex.
